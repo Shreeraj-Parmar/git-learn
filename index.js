@@ -3,9 +3,8 @@ console.log("This is Second line ");
 console.log("This is Third line ");
 console.log("This is Fourth line ");
 console.log("This is Fifth line ");
-
-console.log("This is Sixth line From Brnahc two");
-console.log("This is Seventh line From Branch 2");
+let a = 10;
+console.log("This is Seventh line From Branch semi");
 console.log("This is Eighth line ");
 console.log("This is Ninth line ");
 console.log("This is Tenth line ");
